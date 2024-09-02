@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: react-app
+        image: zshay/dropit:react-app
