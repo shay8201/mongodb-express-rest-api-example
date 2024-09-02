@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: zshay/dropit:react-app-v4.0
+        image: zshay/dropit:react-app-v5.0
