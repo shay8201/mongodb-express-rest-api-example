@@ -5,7 +5,6 @@ metadata:
   labels:
     app: express-server
 spec:
-  clusterIP: none
   selector:
     app: express-server
   ports:
